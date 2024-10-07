@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ludo/static/css/main.6040e761.css",
+    "main.js": "/Ludo/static/js/main.ac306b48.js",
+    "static/js/453.d838f528.chunk.js": "/Ludo/static/js/453.d838f528.chunk.js",
+    "static/media/Amazon.jpg": "/Ludo/static/media/Amazon.217e1156987c8ad63cb2.jpg",
+    "index.html": "/Ludo/index.html",
+    "main.6040e761.css.map": "/Ludo/static/css/main.6040e761.css.map",
+    "main.ac306b48.js.map": "/Ludo/static/js/main.ac306b48.js.map",
+    "453.d838f528.chunk.js.map": "/Ludo/static/js/453.d838f528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6040e761.css",
+    "static/js/main.ac306b48.js"
+  ]
+}
