@@ -40,12 +40,16 @@
   
   .score-container {
     margin: 20px 0;
-    font-size: 20px;
+    font-size: 40px;
+  }
+  .score{
+    font-weight: 600;
+    font-size: 22px
   }
   
   .roll-button {
-    padding: 10px 20px;
-    font-size: 1rem;
+    padding: 13px 20px;
+    font-size: 1.3rem;
     font-weight: bold;
     background-color: #28a745;
     color: white;
@@ -53,7 +57,7 @@
     border-radius: 5px;
     cursor: pointer;
     margin: 0 10px;
-    box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.8);
+    box-shadow: 1px 4px 6px rgba(0.01, 0.1, 0, 0.85);
   }
   
   .roll-button:hover {

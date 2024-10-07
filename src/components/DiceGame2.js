@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import './game2.css'; // Updated CSS file name
 
 const Dicegame2 = () => {
-  const [diceValue1, setDiceValue1] = useState(1);
-  const [diceValue2, setDiceValue2] = useState(1);
+  const [diceValue1, setDiceValue1] = useState(0);
+  const [diceValue2, setDiceValue2] = useState(0);
   const [isRolling1, setIsRolling1] = useState(false);
   const [isRolling2, setIsRolling2] = useState(false);
   const [currentPlayer, setCurrentPlayer] = useState(1);
